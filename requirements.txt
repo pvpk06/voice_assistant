@@ -1,0 +1,8 @@
+pyttsx3
+pywin32_system32
+datetime
+speech_recognition
+wikipedia
+webbrowser
+random
+pyautogui
